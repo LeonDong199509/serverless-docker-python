@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/LeonDong199509/serverless-docker-python/tree/master.svg?style=svg)](https://circleci.com/gh/LeonDong199509/serverless-docker-python/tree/master)
 # Serverless - AWS Python Docker
 
 This project has been generated using the `aws-nodejs-docker` template from the [Serverless framework](https://www.serverless.com/).
